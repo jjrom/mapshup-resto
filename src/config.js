@@ -13,7 +13,7 @@
     /*
      * !! DO NOT EDIT UNDER THIS LINE !!
      */
-    c["general"].themePath = "/js/mapshup/theme/default";
+    c["general"].themePath = "/js/mapshup/theme/blacker";
     c["general"].displayContextualMenu = true;
     c["general"].displayCoordinates = true;
     c["general"].displayScale = false;
