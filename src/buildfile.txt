@@ -60,13 +60,13 @@ lib/plugins/Catalog.js
 #lib/plugins/Catalog/SPOTRest.js
 lib/plugins/Catalog/OpenSearch.js
 #lib/plugins/CountryPicker.js
-#lib/plugins/Distance.js
+lib/plugins/Distance.js
 #lib/plugins/Drawing.js
 #lib/plugins/DrawBox.js
 #lib/plugins/Export.js // NOTOUCH
 #lib/plugins/FeatureEdition.js
 #lib/plugins/Flickr.js
-#lib/plugins/Geonames.js
+lib/plugins/Geonames.js
 #lib/plugins/GetFeatureInfo.js
 #lib/plugins/GetLandCover.js
 #lib/plugins/GoogleEarth.js // NOTOUCH
