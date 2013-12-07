@@ -5,7 +5,7 @@
      * 
      * Should be changed to match target server
      */
-    c["general"].rootUrl = 'http://localhost/~jrom/mapshupresto';
+    c["general"].rootUrl = 'http://localhost/Devel/mapshup-resto/build';
     c["general"].serverRootUrl = c["general"].rootUrl + "/s";
     c["general"].proxyUrl = null;
     c["general"].confirmDeletion = false;
@@ -34,8 +34,7 @@
     });
     c.extend("Navigation", {
         position: 'nw',
-        orientation: 'h',
-        home: null
+        orientation: 'h'
     });
     c["general"].location = {
         lon:0,
