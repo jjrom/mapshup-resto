@@ -27,8 +27,8 @@ Note: $TARGET should be replaced by the $TARGET value (i.e. if $TARGET=/var/www/
 
         sudo apachectl restart
 
-Build take5
------------
+Build mapshup-resto
+-------------------
 
 The first time, you need to peform a complete build
 
