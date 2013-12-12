@@ -23,7 +23,8 @@ html {
 
 /* Navigation */
 .tbnwh {
-    top:75px;
+    top:50px;
+    left:30px;
     background-color:#E4E4E4;
     color:#000;
     border:1px solid #fff;
