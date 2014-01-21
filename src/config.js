@@ -32,13 +32,14 @@
         key: "AmraZAAcRFVn6Vbxk_TVhhVZNt66x4_4SV_EvlfzvRC9qZ_2y6k1aNsuuoYS0UYy",
         bingType: "Aerial"
     });
+    c.remove("plugins", "LayersManager");
     c.extend("Navigation", {
         position: 'nw',
         orientation: 'h'
     });
-    c.extend("LayersManager", {
+    /*c.extend("LayersManager", {
         slideOverMap: false
-    });
+    });*/
     c["general"].location = {
         lon:0,
         lat:40,
